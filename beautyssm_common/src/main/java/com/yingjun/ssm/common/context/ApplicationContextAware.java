@@ -17,6 +17,7 @@ public class ApplicationContextAware implements org.springframework.context.Appl
 	
 	private static ApplicationContext ctx;
 
+	@Override
 	public void setApplicationContext(ApplicationContext applicationContext) throws BeansException {
 		ApplicationContextAware.ctx = applicationContext;
 	}
