@@ -12,7 +12,7 @@ public class RegularUtil {
 	 * @author shenjialong
 	 * @param regular
 	 *            正则表达式
-	 * @param str
+	 * @param input
 	 *            需要验证的语句
 	 * @return 返回boolbean值:匹配返回true
 	 */
