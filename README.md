@@ -28,3 +28,9 @@
 
 ###架构图：
 ![](http://i.imgur.com/bANkRWU.png)
+
+自己的项目阅读笔记
+1、关于@Min注解
+2、api_goods中的自定义日期序列化CustomDateSerializer
+3、mysql的limit调优
+4、存储过程可提高并发能力？
